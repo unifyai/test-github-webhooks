@@ -1,1 +1,1 @@
-Namaste!
+Namaste, Hello World!

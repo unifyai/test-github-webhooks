@@ -1,1 +1,1 @@
-Namaste, Hello Mate!
+Namaste Everyone, Hello Mate!
